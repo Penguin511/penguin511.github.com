@@ -33,7 +33,7 @@ const MASTER_MAP = [
         "groupName": "Fun",
         "items":[
             {"name": "Reddit", "shortcutKey": "z", "url": "https://reddit.com"},
-            {"name": "Item J", "shortcutKey": "x", "url": "https://google.com/?q=x"},
+            {"name": "Youtube", "shortcutKey": "x", "url": "https://youtube.com"},
             {"name": "Item K", "shortcutKey": "c", "url": "https://google.com/?q=c"}
         ]
     }
