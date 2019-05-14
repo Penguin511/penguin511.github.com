@@ -18,7 +18,7 @@ const MASTER_MAP = [
         "items":[
             {"name": "Gmail", "shortcutKey": "q", "url": "https://gmail.com"},
             {"name": "Maps", "shortcutKey": "w", "url": "https://google.com/maps"},
-            {"name": "Item C", "shortcutKey": "e", "url": "https://google.com/?q=e"}
+            {"name": "NPR", "shortcutKey": "e", "url": "https://npr.org"}
         ]
     },
     {
