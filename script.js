@@ -24,7 +24,7 @@ const MASTER_MAP = [
     {
         "groupName": "Tech",
         "items":[
-            {"name": "Item D", "shortcutKey": "a", "url": "https://google.com/?q=a"},
+            {"name": "Amazon", "shortcutKey": "a", "url": "https://amazon.com"},
             {"name": "Item E", "shortcutKey": "s", "url": "https://google.com/?q=s"},
             {"name": "Item F", "shortcutKey": "d", "url": "https://google.com/?q=d"}
         ]
