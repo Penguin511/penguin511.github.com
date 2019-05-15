@@ -25,8 +25,8 @@ const MASTER_MAP = [
         "groupName": "Tech",
         "items":[
             {"name": "Amazon", "shortcutKey": "a", "url": "https://amazon.com"},
-            {"name": "Item E", "shortcutKey": "s", "url": "https://google.com/?q=s"},
-            {"name": "Item F", "shortcutKey": "d", "url": "https://google.com/?q=d"}
+            {"name": "GitHub", "shortcutKey": "s", "url": "https://ggithub.com/Penguin511"},
+            {"name": "Solus Forum", "shortcutKey": "d", "url": "https://discuss.getsol.us"}
         ]
     },
     {
@@ -34,7 +34,7 @@ const MASTER_MAP = [
         "items":[
             {"name": "Reddit", "shortcutKey": "z", "url": "https://reddit.com"},
             {"name": "Youtube", "shortcutKey": "x", "url": "https://youtube.com"},
-            {"name": "Item K", "shortcutKey": "c", "url": "https://google.com/?q=c"}
+            {"name": "Crossword", "shortcutKey": "c", "url": "https://www.washingtonpost.com/crossword-puzzles/daily/?utm_term=.2560f94cd695"}
         ]
     }
 ]
