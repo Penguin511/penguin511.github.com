@@ -44,8 +44,7 @@ body {
 }
 
 #credits {
-    /* Uncomment to hide credits from your local copy */
-    /*display: none;*/
+    display: none;
     position: absolute;
     font-size: 1rem;
     opacity: 0.5;
