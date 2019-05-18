@@ -4,7 +4,7 @@
 :root {
     --bg-color: #223030;
     --text-color: #dddddd;
-    --bg-image: url("assets/bg.jpg");
+    --bg-image: url("assets/bglq.jpg");
     --SHORTCUT_TIMEOUT: 1.5s;
 }
 body {
