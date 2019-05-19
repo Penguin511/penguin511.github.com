@@ -27,7 +27,8 @@ const MASTER_MAP = [
         "items":[
             {"name": "Amazon", "shortcutKey": "a", "url": "https://amazon.com"},
             {"name": "GitHub", "shortcutKey": "s", "url": "https://github.com/Penguin511"},
-            {"name": "Solus Forum", "shortcutKey": "d", "url": "https://discuss.getsol.us"}
+            {"name": "Solus Forum", "shortcutKey": "d", "url": "https://discuss.getsol.us"},
+            {"name": "Syncthing", "shortcutKey": "v", "url": "http://127.0.0.1:8384/"}
         ]
     },
     {
