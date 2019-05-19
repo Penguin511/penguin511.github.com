@@ -5,7 +5,7 @@
     --bg-color: #223030;
     --text-color: #dddddd;
     --bg-image: url("assets/bg.jpg");
-    --SHORTCUT_TIMEOUT: 2.5s;
+    --SHORTCUT_TIMEOUT: 1.5s;
 }
 body {
     padding: 0;
