@@ -35,7 +35,7 @@ const MASTER_MAP = [
         "groupName": "Fun",
         "items":[
             {"name": "Reddit", "shortcutKey": "z", "url": "https://reddit.com"},
-            {"name": "Youtube", "shortcutKey": "x", "url": "https://youtube.com"},
+            {"name": "Youtube", "shortcutKey": "x", "url": "https://www.youtube.com/feed/subscriptions"},
             {"name": "Crossword", "shortcutKey": "c", "url": "https://www.washingtonpost.com/crossword-puzzles/daily/?utm_term=.2560f94cd695"}
         ]
     }
