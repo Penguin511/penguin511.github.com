@@ -7,7 +7,7 @@ const SHORTCUT_STARTER = 'tab'
 
 // How much time (in milliseconds) you have to press shortcutKey after pressing SHORTCUT_STARTER.
 // Also change --SHORTCUT_TIMEOUT in styles.css if you change this option.
-const SHORTCUT_TIMEOUT = 1500;
+const SHORTCUT_TIMEOUT = 2500;
 
 // The groups of links are generated from this object. Edit it to edit the page's contents.
 // shortcutKey must hold an all-lowercase single button. Theoretically should work with values like `esc` and `f1`,
@@ -16,7 +16,7 @@ const MASTER_MAP = [
     {
         "groupName": "Life",
         "items":[
-            {"name": "Gmail", "shortcutKey": "q", "url": "https://gmail.com"},
+            {"name": "Gmail", "shortcutKey": "q", "url": window.open("https://gmail.com', '_blank')"},
             {"name": "Maps", "shortcutKey": "w", "url": "https://google.com/maps"},
             {"name": "NPR", "shortcutKey": "e", "url": "https://npr.org"},
             {"name": "Messages", "shortcutKey": "m", "url": "https://messages.google.com/web/conversations?redirected=true"},
