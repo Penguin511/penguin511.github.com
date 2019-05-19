@@ -16,7 +16,7 @@ const MASTER_MAP = [
     {
         "groupName": "Life",
         "items":[
-            {"name": "Gmail", "shortcutKey": "q", "url": window.open("https://gmail.com', '_blank')"},
+            {"name": "Gmail", "shortcutKey": "q", "url": "https://gmail.com"},
             {"name": "Maps", "shortcutKey": "w", "url": "https://google.com/maps"},
             {"name": "NPR", "shortcutKey": "e", "url": "https://npr.org"},
             {"name": "Messages", "shortcutKey": "m", "url": "https://messages.google.com/web/conversations?redirected=true"},
