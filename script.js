@@ -30,7 +30,8 @@ const MASTER_MAP = [
             {"name": "Amazon", "shortcutKey": "a", "url": "https://amazon.com"},
             {"name": "GitHub", "shortcutKey": "s", "url": "https://github.com/Penguin511/penguin511.github.com"},
             {"name": "Solus Forum", "shortcutKey": "d", "url": "https://discuss.getsol.us"},
-            {"name": "Syncthing", "shortcutKey": "v", "url": "http://127.0.0.1:8384/"}
+            {"name": "Syncthing", "shortcutKey": "v", "url": "http://127.0.0.1:8384/"},
+            {"name": "CryptDrive", "shortcutKey": "p", "url": "https://cryptpad.fr/drive/#"}
         ]
     },
     {
