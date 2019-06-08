@@ -20,8 +20,8 @@ const MASTER_MAP = [
             {"name": "Maps", "shortcutKey": "w", "url": "https://google.com/maps"},
             {"name": "NPR", "shortcutKey": "e", "url": "https://npr.org"},
             {"name": "Messages", "shortcutKey": "m", "url": "https://messages.google.com/web/conversations?redirected=true"},
-            {"name": "ToDo", "shortcutKey": "r", "url": "https://www.rememberthemilk.com/app"}
-            {"name": "Topline", "shortcutKey": "b", "url": "https://my.toplinecu.com/DashboardV2"},
+            {"name": "ToDo", "shortcutKey": "r", "url": "https://www.rememberthemilk.com/app"},
+            {"name": "Topline", "shortcutKey": "b", "url": "https://my.toplinecu.com/DashboardV2"}
         ]
     },
     {
