@@ -40,7 +40,8 @@ const MASTER_MAP = [
             {"name": "Reddit", "shortcutKey": "z", "url": "https://reddit.com"},
             {"name": "Youtube", "shortcutKey": "x", "url": "https://www.youtube.com/feed/subscriptions"},
             {"name": "Crossword", "shortcutKey": "c", "url": "https://www.washingtonpost.com/crossword-puzzles/daily/?utm_term=.2560f94cd695"},
-            {"name": "Nautilus", "shortcutKey": "n", "url": "https://nautil.us"}
+            {"name": "Nautilus", "shortcutKey": "n", "url": "https://nautil.us"},
+            {"name": "Mastodon", "shortcutKey": "o", "url": "https://fosstodon.org/web/"}
         ]
     }
 ]
