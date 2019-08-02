@@ -27,7 +27,7 @@ const MASTER_MAP = [
     {
         "groupName": "Tech",
         "items":[
-            {"name": "Amazon", "shortcutKey": "a", "url": "https://amazon.com"},
+            {"name": "Amazon", "shortcutKey": "a", "url": "https://smile.amazon.com/ref=nav_logo"},
             {"name": "GitHub", "shortcutKey": "s", "url": "https://github.com/Penguin511/penguin511.github.com"},
             {"name": "Solus Forum", "shortcutKey": "d", "url": "https://discuss.getsol.us"},
             {"name": "Syncthing", "shortcutKey": "v", "url": "http://127.0.0.1:8384/"},
