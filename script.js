@@ -32,6 +32,9 @@ const MASTER_MAP = [
             {"name": "Solus Forum", "shortcutKey": "d", "url": "https://discuss.getsol.us"},
             {"name": "Syncthing", "shortcutKey": "v", "url": "http://127.0.0.1:8384/"},
             {"name": "Drive", "shortcutKey": "p", "url": "https://drive.google.com/drive/u/0/my-drive"}
+            {"name": "Forestry", "shortcutKey": "", "url": "https://app.forestry.io/"}
+            {"name": "Netlify", "shortcutKey": "", "url": "https://app.netlify.com"}
+            {"name": "Metaforest", "shortcutKey": "", "url": "https://app.netlify.com"}
         ]
     },
     {
