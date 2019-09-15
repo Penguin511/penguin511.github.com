@@ -34,7 +34,8 @@ const MASTER_MAP = [
             {"name": "Drive", "shortcutKey": "p", "url": "https://drive.google.com/drive/u/0/my-drive"},
             {"name": "Forestry", "shortcutKey": "", "url": "https://app.forestry.io/"},
             {"name": "Netlify", "shortcutKey": "", "url": "https://app.netlify.com"},
-            {"name": "Metaforest", "shortcutKey": "", "url": "https://app.netlify.com"},
+            {"name": "Metaforest", "shortcutKey": "", "url": "https://github.com/Penguin511/metaforest"},
+            {"name": "Mainsite", "shortcutKey": "", "url": "https://github.com/Penguin511/mainsite"},
         ]
     },
     {
