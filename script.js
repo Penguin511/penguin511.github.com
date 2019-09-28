@@ -46,7 +46,7 @@ const MASTER_MAP = [
             {"name": "Crossword", "shortcutKey": "c", "url": "https://www.washingtonpost.com/crossword-puzzles/daily/?utm_term=.2560f94cd695"},
             {"name": "Nautilus", "shortcutKey": "n", "url": "https://nautil.us"},
             {"name": "Mastodon", "shortcutKey": "o", "url": "https://fosstodon.org/web/"},
-            {"name": "PiHole", "url": "http://192.168.86.69"}
+            {"name": "PiHole", "url": "http://192.168.86.69/admin/"}
         ]
     }
 ]
