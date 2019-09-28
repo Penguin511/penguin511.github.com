@@ -35,7 +35,7 @@ const MASTER_MAP = [
             {"name": "Forestry", "shortcutKey": "", "url": "https://app.forestry.io/"},
             {"name": "Netlify", "shortcutKey": "", "url": "https://app.netlify.com"},
             {"name": "Metaforest", "shortcutKey": "", "url": "https://github.com/Penguin511/metaforest"},
-            {"name": "Mainsite", "shortcutKey": "", "url": "https://github.com/Penguin511/mainsite"},
+            {"name": "Mainsite", "shortcutKey": "", "url": "https://github.com/Penguin511/mainsite"}
         ]
     },
     {
@@ -45,7 +45,7 @@ const MASTER_MAP = [
             {"name": "Youtube", "shortcutKey": "x", "url": "https://www.youtube.com/feed/subscriptions"},
             {"name": "Crossword", "shortcutKey": "c", "url": "https://www.washingtonpost.com/crossword-puzzles/daily/?utm_term=.2560f94cd695"},
             {"name": "Nautilus", "shortcutKey": "n", "url": "https://nautil.us"},
-            {"name": "Mastodon", "shortcutKey": "o", "url": "https://fosstodon.org/web/"}
+            {"name": "Mastodon", "shortcutKey": "o", "url": "https://fosstodon.org/web/"},
             {"name": "PiHole", "url": "192.168.86.69"}
         ]
     }
