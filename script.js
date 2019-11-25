@@ -35,7 +35,8 @@ const MASTER_MAP = [
             {"name": "Forestry", "shortcutKey": "", "url": "https://app.forestry.io/"},
             {"name": "Netlify", "shortcutKey": "", "url": "https://app.netlify.com"},
             {"name": "Metaforest", "shortcutKey": "", "url": "https://github.com/Penguin511/metaforest"},
-            {"name": "Mainsite", "shortcutKey": "", "url": "https://github.com/Penguin511/mainsite"}
+            {"name": "Mainsite", "shortcutKey": "", "url": "https://github.com/Penguin511/mainsite"},
+            {"name": "PiHoleAdmin", "url": "http://192.168.86.69/admin/index.php"}
         ]
     },
     {
