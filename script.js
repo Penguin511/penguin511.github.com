@@ -36,7 +36,7 @@ const MASTER_MAP = [
             {"name": "Netlify", "shortcutKey": "", "url": "https://app.netlify.com"},
             {"name": "Metaforest", "shortcutKey": "", "url": "https://github.com/Penguin511/metaforest"},
             {"name": "Mainsite", "shortcutKey": "", "url": "https://github.com/Penguin511/mainsite"},
-            {"name": "PiHoleAdmin", "url": "http://192.168.86.69/admin/index.php"}
+            {"name": "Nextcloud", "url": "https://toby.local"}
         ]
     },
     {
@@ -47,7 +47,8 @@ const MASTER_MAP = [
             {"name": "Crossword", "shortcutKey": "c", "url": "https://www.washingtonpost.com/crossword-puzzles/daily/?utm_term=.2560f94cd695"},
             {"name": "Nautilus", "shortcutKey": "n", "url": "https://nautil.us"},
             {"name": "Mastodon", "shortcutKey": "o", "url": "https://fosstodon.org/web/"},
-            {"name": "PiHole", "url": "http://192.168.86.69/admin/"}
+            {"name": "PiHole", "url": "http://192.168.86.69/admin/index.php"},
+            {"name": "Simplenote", "url": "https://app.simplenote.com/"}
         ]
     }
 ]
