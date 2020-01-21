@@ -36,7 +36,7 @@ const MASTER_MAP = [
             {"name": "Netlify", "shortcutKey": "", "url": "https://app.netlify.com"},
             {"name": "Metaforest", "shortcutKey": "", "url": "https://github.com/Penguin511/metaforest"},
             {"name": "Mainsite", "shortcutKey": "", "url": "https://github.com/Penguin511/mainsite"},
-            {"name": "Nextcloud", "url": "https://www.jordanlutter.net"}
+            {"name": "Nextcloud", "url": "https://jordanlutter.net/index.php/apps/files/?dir=/&fileid=6"}
         ]
     },
     {
