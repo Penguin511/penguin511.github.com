@@ -47,7 +47,7 @@ const MASTER_MAP = [
             {"name": "Crossword", "shortcutKey": "c", "url": "https://www.nytimes.com/crosswords"},
             {"name": "Nautilus", "shortcutKey": "n", "url": "https://nautil.us"},
             {"name": "Mastodon", "shortcutKey": "o", "url": "https://fosstodon.org/web/"},
-            {"name": "PiHole", "url": "http://192.168.86.69/admin/index.php"},
+            {"name": "PiHole", "url": "http://192.168.86.138/admin/index.php"},
             {"name": "Simplenote", "url": "https://app.simplenote.com/"},
             {"name": "Plex", "url": "https://192.168.86.132:32400/web/index.html#"}
         ]
