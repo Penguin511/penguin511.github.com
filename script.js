@@ -23,9 +23,8 @@ const MASTER_MAP = [
             {"name": "ToDo", "shortcutKey": "r", "url": "https://www.rememberthemilk.com/app"},
             {"name": "Kanban", "url": "http://192.168.86.132:8080/b/bPuJxrZJpc2W8j35r/to-do"},
             {"name": "Topline", "shortcutKey": "b", "url": "https://my.toplinecu.com/DashboardV2"},
-            {"name": "Torrents", "url": "https://torrents-csv.ml/#/"}
-           
-          
+            {"name": "Torrents", "url": "https://torrents-csv.ml/#/"},
+            {"name": "Mail", "url": "https://informeddelivery.usps.com/box/pages/secure/DashboardAction_input.action?restart=1"}
         ]
     },
     {
