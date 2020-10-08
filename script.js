@@ -21,7 +21,6 @@ const MASTER_MAP = [
             {"name": "NPR", "shortcutKey": "e", "url": "https://npr.org"},
             {"name": "Messages", "shortcutKey": "m", "url": "https://messages.google.com/web/conversations?redirected=true"},
             {"name": "ToDo", "shortcutKey": "r", "url": "https://www.rememberthemilk.com/app"},
-            {"name": "Kanban", "url": "http://192.168.86.132:8080/b/bPuJxrZJpc2W8j35r/to-do"},
             {"name": "Topline", "shortcutKey": "b", "url": "https://my.toplinecu.com/DashboardV2"},
             {"name": "Torrents", "url": "https://torrents-csv.ml/#/"},
             {"name": "Mail", "url": "https://informeddelivery.usps.com/box/pages/secure/DashboardAction_input.action?restart=1"}
@@ -37,7 +36,6 @@ const MASTER_MAP = [
             {"name": "Forestry", "shortcutKey": "", "url": "https://app.forestry.io/"},
             {"name": "Netlify", "shortcutKey": "", "url": "https://app.netlify.com"},
             {"name": "Metaforest", "shortcutKey": "", "url": "https://github.com/Penguin511/metaforest"},
-            {"name": "Mainsite", "shortcutKey": "", "url": "https://github.com/Penguin511/mainsite"},
             {"name": "Nextcloud", "url": "https://jordanlutter.net/index.php/apps/files/?dir=/&fileid=6"}
         ]
     },
