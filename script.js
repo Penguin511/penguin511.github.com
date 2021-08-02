@@ -31,11 +31,9 @@ const MASTER_MAP = [
         "items":[
             {"name": "Amazon", "shortcutKey": "a", "url": "https://smile.amazon.com/ref=nav_logo"},
             {"name": "GitHub", "shortcutKey": "s", "url": "https://github.com/Penguin511/penguin511.github.com"},
-            {"name": "Syncthing", "shortcutKey": "v", "url": "http://127.0.0.1:8384/"},
             {"name": "Drive", "shortcutKey": "p", "url": "https://drive.google.com/drive/u/0/my-drive"},
             {"name": "Forestry", "shortcutKey": "", "url": "https://app.forestry.io/"},
             {"name": "Netlify", "shortcutKey": "", "url": "https://app.netlify.com"},
-            {"name": "Metaforest", "shortcutKey": "", "url": "https://github.com/Penguin511/metaforest"},
             {"name": "Nextcloud", "url": "https://jordanlutter.net/index.php/apps/files/?dir=/&fileid=6"}
         ]
     },
@@ -45,8 +43,6 @@ const MASTER_MAP = [
             {"name": "Reddit", "shortcutKey": "z", "url": "https://reddit.com"},
             {"name": "Youtube", "shortcutKey": "x", "url": "https://www.youtube.com/feed/subscriptions"},
             {"name": "Crossword", "shortcutKey": "c", "url": "https://www.nytimes.com/crosswords"},
-            {"name": "Nautilus", "shortcutKey": "n", "url": "https://nautil.us"},
-            {"name": "Mastodon", "shortcutKey": "o", "url": "https://fosstodon.org/web/"},
             {"name": "PiHole", "url": "http://192.168.86.138/admin/index.php"},
             {"name": "Simplenote", "url": "https://app.simplenote.com/"},
             {"name": "Plex", "url": "https://192.168.86.132:32400/web/index.html#"}
