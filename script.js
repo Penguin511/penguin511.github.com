@@ -32,8 +32,6 @@ const MASTER_MAP = [
             {"name": "Amazon", "shortcutKey": "a", "url": "https://smile.amazon.com/ref=nav_logo"},
             {"name": "GitHub", "shortcutKey": "s", "url": "https://github.com/Penguin511/penguin511.github.com"},
             {"name": "Drive", "shortcutKey": "p", "url": "https://drive.google.com/drive/u/0/my-drive"},
-            {"name": "Forestry", "shortcutKey": "", "url": "https://app.forestry.io/"},
-            {"name": "Netlify", "shortcutKey": "", "url": "https://app.netlify.com"},
             {"name": "Nextcloud", "url": "https://jordanlutter.net/index.php/apps/files/?dir=/&fileid=6"}
         ]
     },
